@@ -3,8 +3,8 @@ A Stacked Ensemble using a Deep Neural Network meta-trainer &amp; Gradient Boost
 
 ## Results
 Regression [Using Normalized RMSE % = (RMSE/(MAX-MIN))*100; Accuracy = 100 - RMSE %]
-Red Wine Accuracy: 88.2382197087 % 
-White Wine Accuracy: 90.0720307958 %
+#### Red Wine Accuracy: 88.2382197087 % 
+#### White Wine Accuracy: 90.0720307958 %
 
 ## Dataset
 #### University of California, Irvine - Machine Learning Repository 
