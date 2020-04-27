@@ -7,7 +7,7 @@ Regression using:
 
 Normalized RMSE % = (RMSE/(MAX-MIN))*100
 
-Accuracy = 100 - RMSE %
+Accuracy = 100 - Normalized RMSE %
 #### Red Wine Accuracy: 88.2382197087 % 
 #### White Wine Accuracy: 90.0720307958 %
 
