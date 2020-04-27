@@ -2,7 +2,7 @@
 A Stacked Ensemble using a Deep Neural Network meta-trainer &amp; Gradient Boosting Machine, Random Forest, Deep Neural Network as base models for predicting the quality of red & white wines.(h20.ai, Pandas, Seaborn)
 
 ## Results
-Regression using: 
+Exact Regression using: 
 
 
 Normalized RMSE % = (RMSE/(MAX-MIN))*100
