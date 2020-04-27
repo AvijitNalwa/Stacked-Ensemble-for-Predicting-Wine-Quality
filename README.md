@@ -2,7 +2,7 @@
 A Stacked Ensemble using a Deep Neural Network meta-trainer &amp; Gradient Boosting Machine, Random Forest, Deep Neural Network as base models for predicting the quality of red & white wines.(h20.ai, Pandas, Seaborn)
 
 ## Dataset
-#### University of California, Irvine: Machine Learning Repository 
+#### University of California, Irvine - Machine Learning Repository 
 Wine Quality Data Set
 
 Abstract: Two datasets are included, related to red and white vinho verde wine samples, from the north of Portugal. The goal is to model wine quality based on physicochemical tests (Cortez et al., 2009).
