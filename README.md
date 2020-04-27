@@ -1,6 +1,11 @@
 # Wine Quality Prediction Using a Stacked Ensemble Model
 A Stacked Ensemble using a Deep Neural Network meta-trainer &amp; Gradient Boosting Machine, Random Forest, Deep Neural Network as base models for predicting the quality of red & white wines.(h20.ai, Pandas, Seaborn)
 
+## Results
+Regression [Using Normalized RMSE % = (RMSE/(MAX-MIN))*100; Accuracy = 100 - RMSE %]
+Red Wine Accuracy: 88.2382197087 % 
+White Wine Accuracy: 90.0720307958 %
+
 ## Dataset
 #### University of California, Irvine - Machine Learning Repository 
 Wine Quality Data Set
