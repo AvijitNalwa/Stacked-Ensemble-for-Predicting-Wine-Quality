@@ -1,6 +1,16 @@
 # Wine Quality Prediction Using a Stacked Ensemble Model
 A Stacked Ensemble using a Deep Neural Network meta-trainer &amp; Gradient Boosting Machine, Random Forest, Deep Neural Network as base models for predicting the quality of red & white wines.(h20.ai, Pandas, Seaborn)
 
+## Structure
+
+Main Files:
+1. Wine Quality.py [Data Visualization + Random Forest Modelling + Useful Methods]
+2. Wine Quality Ensemble.py [Advanced Version of 1st file, Stacked Ensemble Modelling (Final Model)]
+3. Loading Saved Ensembles.py [How to load the saved Stacked Ensemble Model to predict on data]
+4. Output .txt files [Model Details, Error Metrics, General Information]
+5. red_ensemble4, white_ensemble4 [Stacked Ensemble Saved Model Files]
+6. Visualizations .png files [Correlation Matrix Heatmaps, Standardized Variable Distributions, Variable Importances]
+
 ## Results
 Exact Regression using: 
 
