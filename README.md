@@ -3,7 +3,7 @@ A Stacked Ensemble using a Deep Neural Network meta-trainer &amp; Gradient Boost
 
 ## Structure
 
-Main Files:
+#### Main Files:
 1. Wine Quality.py [Data Visualization + Random Forest Modelling + Useful Methods]
 2. Wine Quality Ensemble.py [Advanced Version of 1st file, Stacked Ensemble Modelling (Final Model)]
 3. Loading Saved Ensembles.py [How to load the saved Stacked Ensemble Model to predict on data]
