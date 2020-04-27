@@ -4,7 +4,7 @@ A Stacked Ensemble using a Deep Neural Network meta-trainer &amp; Gradient Boost
 
 # Data Visualization
 ## Red Wine Variable Correlation Matrix Heatmap
-<img src="https://github.com/AvijitNalwa/Wine-Quality/blob/master/Red%20Correlation%20Matrix%20Heatmap.png" width="30%" height="40%">
+<img src="https://github.com/AvijitNalwa/Wine-Quality/blob/master/Red%20Correlation%20Matrix%20Heatmap.png" width="50%" height="50%">
 
 ## White Wine Variable Correlation Matrix Heatmap
-<img src="https://github.com/AvijitNalwa/Wine-Quality/blob/master/White%20Correlation%20Matrix%20Heatmap.png" width="400" height="790">
+<img src="https://github.com/AvijitNalwa/Wine-Quality/blob/master/White%20Correlation%20Matrix%20Heatmap.png" width="50%" height="50%">
