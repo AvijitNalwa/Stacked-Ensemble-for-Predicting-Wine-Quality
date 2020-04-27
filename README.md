@@ -5,7 +5,7 @@ A Stacked Ensemble using a Deep Neural Network meta-trainer &amp; Gradient Boost
 #### University of California, Irvine: Machine Learning Repository 
 Wine Quality Data Set
 
-#### Abstract: 
+#### Abstract:
 Two datasets are included, related to red and white vinho verde wine samples, from the north of Portugal. The goal is to model wine quality based on physicochemical tests (Cortez et al., 2009).
 http://archive.ics.uci.edu/ml/datasets/Wine+Quality
 
