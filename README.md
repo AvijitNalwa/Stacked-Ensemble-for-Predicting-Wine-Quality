@@ -15,3 +15,9 @@ http://archive.ics.uci.edu/ml/datasets/Wine+Quality
 
 ### White Wine Variable Correlation Matrix Heatmap
 <img src="https://github.com/AvijitNalwa/Wine-Quality/blob/master/White%20Correlation%20Matrix%20Heatmap.png" width="70%" height="70%">
+
+### Red Wine Standardized Variables Distribution
+<img src="https://github.com/AvijitNalwa/Wine-Quality/blob/master/Red%20Columns%20Normalized%20Distribution%20Plot.png" width="70%" height="70%">
+
+### White Wine Standardized Variables Distribution
+<img src="https://github.com/AvijitNalwa/Wine-Quality/blob/master/White%20Columns%20Normalized%20Distribution%20Plot.png" width="70%" height="70%">
